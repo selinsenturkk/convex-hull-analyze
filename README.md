@@ -63,7 +63,7 @@ Brute Force algoritması kullanılarak elde edilen kapalı çevrim sonucu:
 
 Graham Scan algoritması ile hesaplanan kapalı çevrim sonucu:
 
-<img src="images/graham-scan.png" width="450">
+<img src="images/graham-scan,,.png" width="450">
 
 ---
 
@@ -76,10 +76,11 @@ Algoritmalar farklı nokta sayıları için test edilmiştir.
 
 <img src="images/performance-test.png" width="450">
 
+Grafik gösterimi, algoritmaların hesaplama karmaşıklığı ile uyumludur 
+
 ### Gözlemler
 - Brute Force algoritması, nokta sayısı arttıkça çok hızlı şekilde yavaşlamaktadır
 - Graham Scan algoritması, teorik beklentiye uygun olarak daha dengeli bir artış göstermektedir
 - Büyük veri kümelerinde Graham Scan açık ara daha verimlidir
 
 <img src="images/perf-test-sonuc.png" width="400">
----
